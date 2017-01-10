@@ -3,6 +3,15 @@ README Aulas GITHUB
 ============
 Este é um README.md de teste para o Projeto Fase 1
 
+COMANDOS DO COMMIT ATÉ O PUSH
+============
+- criar arquivo README.md
+- git add README.md
+- git commit -m "Criando mais um README.md"
+- git push
+
+
+
 Linux Debian Jessie 8.6
 ============
 - meu ssh não funcionou
