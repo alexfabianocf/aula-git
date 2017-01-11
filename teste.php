@@ -1,2 +1,1 @@
-<? phpinfo(); ?>
-Olá
+echo "Fase 2";
